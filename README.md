@@ -1,6 +1,5 @@
-# 🌸 Welcome to My Space 💻✨
-
-**✨ Intro**
+## ~Welcome to My Space 💻✨
+## ~Intro
 
 <table>
 <tr>
@@ -19,7 +18,7 @@ Building up projects and sharpening skills every day 🌈☕
 
 ---
 
-**💎 Skills**
+## ~Skills
 
 <table align="center">
 <tr>
@@ -60,4 +59,31 @@ Building up projects and sharpening skills every day 🌈☕
 <br>Data Science
 </td>
 </tr>
+</table>
+
+---
+
+## 💌 Connect with Me
+
+<table>
+  <tr>
+    <td align="center">
+      <!-- LinkedIn box -->
+      <a href="https://www.linkedin.com/in/yashwanthiga/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center">
+      <!-- Email box -->
+      <a href="mailto:yashwanthiga@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail" alt="Email" />
+      </a>
+    </td>
+    <td align="center">
+      <!-- LeetCode box -->
+      <a href="https://leetcode.com/u/H6otcnSF3R/" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+      </a>
+    </td>
+  </tr>
 </table>
