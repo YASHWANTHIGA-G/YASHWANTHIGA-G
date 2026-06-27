@@ -18,7 +18,7 @@ Building up projects and sharpening skills every day🌈☕
 
 ---
 
-## ~Skills
+## ~Skills and Tools
 
 <table align="center">
 <tr>
