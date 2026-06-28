@@ -63,7 +63,8 @@ Building up projects and sharpening skills every day🌈☕
 
 ---
 
-## 💌 Connect with Me
+
+##  💌 Connect with Me
 
 <table>
   <tr>
@@ -90,5 +91,25 @@ Building up projects and sharpening skills every day🌈☕
 
 ---
 
-## ✨ Quote of the Day
+
+ ## ✨ Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?quote=Dream%20is%20not%20that%20which%20you%20see%20while%20sleeping%20it%20is%20something%20that%20does%20not%20let%20you%20sleep.&author=A.P.J.%20Abdul%20Kalam&type=horizontal&theme=radical)
+
+---
+
+<!-- 🌟 Contribution Graph Heading -->
+<h2 align="center">📈 My Contribution Graph</h2>
+<!-- 🌊 Top Wave -->
+<svg viewBox="0 0 1440 320" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#fbcfe8" d="M0,64L48,80C96,96,192,128,288,160C384,192,480,224,576,213.3C672,203,768,149,864,133.3C960,117,1056,139,1152,160C1248,181,1344,203,1392,213.3L1440,224L1440,0L0,0Z"></path>
+</svg>
+
+<!-- 📈 Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YASHWANTHIGA-G&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+<!-- 🌊 Bottom Wave -->
+<svg viewBox="0 0 1440 320" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#fbcfe8" d="M0,160L48,170C96,180,192,200,288,213.3C384,227,480,245,576,240C672,235,768,205,864,186.7C960,168,1056,160,1152,170.7C1248,181,1344,203,1392,213.3L1440,224L1440,320L0,320Z"></path>
+</svg>
