@@ -10,7 +10,7 @@
 <span style="font-family: 'Trebuchet MS', sans-serif; font-weight: bold;">
 👋 Hi all, this is Yash —  
 a tech girl who loves to code 💻✨  
-Building up projects and sharpening skills every day🌈☕ 
+Building up projects and sharpening skills every day
 </span>
 </td>
 </tr>
