@@ -1,4 +1,7 @@
-## ~Welcome to My Space 💻✨
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=🌸+Welcome+to+My+Space+💻✨)](https://git.io/typing-svg)
+
+---
+
 ## 🌟About Me
 
 <table>
@@ -124,3 +127,9 @@ Building up projects and sharpening skills every day
 <p align="center">
   <img src="https://github.com/YASHWANTHIGA-G/YASHWANTHIGA-G/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
+---
+
+<!-- TYPING ANIMATION -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=1000&lines=✨+Thanks+for+visiting+my+profile!;+If+you+like+my+work,+don't+forget+to+⭐+my+repository!;💜+BY+Yash!+🚀)](https://git.io/typing-svg)
