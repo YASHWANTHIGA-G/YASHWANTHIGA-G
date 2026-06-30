@@ -68,6 +68,7 @@ Building up projects and sharpening skills every day
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" />  Featured Projects 🚀
 
  1. [To-Do App](https://yashwanthiga-g.github.io/To-do-app/)
+ 2. [CardioVascular-DiseasePrediction](https://yashwanthiga.pythonanywhere.com/)
 
 ---
 
