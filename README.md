@@ -69,6 +69,7 @@ Building up projects and sharpening skills every day
 
  1. [To-Do App](https://yashwanthiga-g.github.io/To-do-app/)
  2. [CardioVascular-DiseasePrediction](https://yashwanthiga.pythonanywhere.com/)
+ 3. [DiamondPricePrediction](https://diamondpriceprediction-cwh9.onrender.com/)
 
 ---
 
