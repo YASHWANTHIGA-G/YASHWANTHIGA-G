@@ -111,10 +111,7 @@ Building up projects and sharpening skills every day
 
  ## ✨ Quote of the Day
  
-<p align="center">
-  <img src="./quote.png" width="700" alt="Quote Banner">
-</p>
-
+<img src="./quote2.png" style="background:transparent;">
 ---
 
 <!-- 🌟 Contribution Graph Heading -->
