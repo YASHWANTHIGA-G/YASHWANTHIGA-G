@@ -78,7 +78,7 @@ Building up projects and sharpening skills every day
 
 ## 🌐 My Portfolio
 
-✨ Explore my projects and work here:🔗 [CLICKME!](https://portfolio-fawn-psi-41.vercel.app/)
+✨ Explore my projects and work here:🔗 [CLICKME!](my-portfolio-olive-nine-83.vercel.app)
 
 ---
  
