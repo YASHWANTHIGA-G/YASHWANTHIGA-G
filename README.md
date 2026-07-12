@@ -72,6 +72,7 @@ Building up projects and sharpening skills every day
  3. [DiamondPricePrediction](https://diamondpriceprediction-cwh9.onrender.com/)
  4. [TicTacToeGame](https://tic-tac-toe-game-rose-alpha.vercel.app/)
  5. [SnakeGame](https://snakegame-vert-six.vercel.app/)
+ 6. [Skycast](https://skycast-iuds.vercel.app/)
 
 ---
 
