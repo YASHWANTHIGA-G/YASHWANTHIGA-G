@@ -114,19 +114,7 @@ Building up projects and sharpening skills every day
  
 ![Quote](https://quotes-github-readme.vercel.app/api?quote=Dream%20is%20not%20that%20which%20you%20see%20while%20sleeping%20it%20is%20something%20that%20does%20not%20let%20you%20sleep.&author=A.P.J.%20Abdul%20Kalam&type=horizontal&theme=radical)
 
----
 
-<!-- 🌟 Contribution Graph Heading -->
-<h2 align="center">📈 My Contribution Graph</h2>
-<!-- 🌊 Top Wave -->
-<svg viewBox="0 0 1440 320" xmlns="http://www.w3.org/2000/svg">
-  <path fill="#fbcfe8" d="M0,64L48,80C96,96,192,128,288,160C384,192,480,224,576,213.3C672,203,768,149,864,133.3C960,117,1056,139,1152,160C1248,181,1344,203,1392,213.3L1440,224L1440,0L0,0Z"></path>
-</svg>
-
-<!-- 📈 Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YASHWANTHIGA-G&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
 
 <!-- 🌊 Bottom Wave -->
 <svg viewBox="0 0 1440 320" xmlns="http://www.w3.org/2000/svg">
